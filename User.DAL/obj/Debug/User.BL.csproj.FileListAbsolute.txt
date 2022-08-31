@@ -1,0 +1,11 @@
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.BL.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.BL.pdb
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.IBLL.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.Model.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.IBLL.pdb
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.Model.pdb
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.BL.csprojAssemblyReference.cache
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.BL.csproj.CoreCompileInputs.cache
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.BL.csproj.CopyComplete
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.BL.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.BL.pdb

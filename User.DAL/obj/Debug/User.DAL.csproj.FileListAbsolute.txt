@@ -1,0 +1,6 @@
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.DAL.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\bin\Debug\User.DAL.pdb
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.DAL.csprojAssemblyReference.cache
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.DAL.csproj.CoreCompileInputs.cache
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.DAL.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.DAL\obj\Debug\User.DAL.pdb

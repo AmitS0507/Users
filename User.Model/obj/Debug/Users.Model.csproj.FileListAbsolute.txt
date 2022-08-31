@@ -1,0 +1,5 @@
+D:\Users\wjy7t6\source\repos\WindowsService1\User.Model\bin\Debug\Users.Model.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.Model\bin\Debug\Users.Model.pdb
+D:\Users\wjy7t6\source\repos\WindowsService1\User.Model\obj\Debug\Users.Model.csproj.CoreCompileInputs.cache
+D:\Users\wjy7t6\source\repos\WindowsService1\User.Model\obj\Debug\Users.Model.dll
+D:\Users\wjy7t6\source\repos\WindowsService1\User.Model\obj\Debug\Users.Model.pdb
